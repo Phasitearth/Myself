@@ -1,0 +1,40 @@
+h1{
+    color:rgb(3, 158, 230);
+    text-align: center;
+    font-size: 60px;
+    font-family : DSE SuKumWit ;
+    border-radius : 20px ;
+    margin-top:20px;
+    background-color:rgb(58, 58, 58)
+    
+}
+img {
+    border-radius : 10px ;
+}
+h2{
+    font-family : DSE SuKumWit ;
+    color:rgb(120, 178, 253);
+    text-align: left;
+    font-size: 40px;
+    margin-top:30px;
+    padding : 10px;
+    border-right : 20px;
+    border-radius : 10px ;
+    background-color:rgb(58, 58, 58)
+    
+}
+p2{
+    color:rgb(3, 64, 92);
+    font-family : DSN Single ;
+    font-size: 25px;
+    
+}
+
+button{
+    color:rgb(255, 255, 255);
+    
+    
+}
+body{
+    background-color :rgb(187, 187, 187);
+}
